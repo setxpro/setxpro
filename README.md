@@ -4,10 +4,18 @@
   I'm  <strong>Full-stake Developer</strong> 
   
   <br>
+  
 - 🔭 Atualmente estou trabalhando em ReactJS e MongoDB
 - 🌱 Atualmente, estou aprendendo Backend
 - 📫 Email: patrickpqdt87289@gmail.com
 - 😄 Meu website: https://setxpro.github.io/
+
+- 🔭 I’m currently working on NodeJs
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Frontend
+- 📫 How to reach me: saviomartin2020@gmail.com
+- 😄 My website: https://savio.works/
+- ⚡ Fun fact: I'm comming to teen
 
 </p>
 
