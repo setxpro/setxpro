@@ -3,8 +3,11 @@
 <p > 
   I'm  <strong>Full-stake Developer</strong> 
   
-   <br>
-    I study systems analysis and development and I always look for new technologies to the next level
+  <br>
+- 🔭 Atualmente estou trabalhando em ReactJS e MongoDB
+- 🌱 Atualmente, estou aprendendo Backend
+- 📫 Email: patrickpqdt87289@gmail.com
+- 😄 Meu website: https://setxpro.github.io/
 
 </p>
 
@@ -58,11 +61,5 @@
 
 - <a href="https://setxpro.github.io/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20patrick.portifólio-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
--  <a href = "patrickpqdt87289@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail%20gmail&logoColor=white" target="_blank"></a>
-
-
-  <a href="https://www.linkedin.com/in/patrick-anjos-8b65021b7" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  <a href="https://www.instagram.com/seth_ofcc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </p>
