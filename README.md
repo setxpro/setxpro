@@ -43,6 +43,7 @@
 <h1 align="center">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setxpro&langs_count=10&theme=midnight-purple&hide_border=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setxpro&theme=radical&title_color=8E2DE2&text_color=fff)
     
 </h1>
 
