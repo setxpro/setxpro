@@ -52,6 +52,6 @@
 
 - <a href="https://setxpro.github.io/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20patrick.portifólio-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
-- <a href="https://friendly-raman-40c5cd.netlify.app/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20patrick.portifólio-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+- <a href="https://friendly-raman-40c5cd.netlify.app/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20REACTJS.🚧-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
   
 </p>
