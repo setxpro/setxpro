@@ -47,6 +47,8 @@
   
   - <a href="https://www.instagram.com/patrick_anjos_/"><img src="https://img.shields.io/badge/instagram%20@patrick_anjos_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 - <a href="https://www.facebook.com/patrick.anjos.r/"><img src="https://img.shields.io/badge/facebook%20Patrick_Anjos-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  
+  - <a href="https://wa.link/620ix3"><img src="https://img.shields.io/badge/whatsapp%20Patrick_Anjos-344E86?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 - <a href="https://setxpro.github.io/"><img height="30px" src="https://img.shields.io/badge/My%20Website:%20patrick.portifólio-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
 
