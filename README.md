@@ -4,11 +4,9 @@
   I'm  <strong>Full-stake Developer</strong> 
   
   <br>
-  
-- 🔭 Atualmente estou trabalhando em ReactJS e MongoDB
-- 🌱 Atualmente, estou aprendendo Backend
+- 🌱 Estou aprendendo Laravel PHP
 - 📫 Email: patrickpqdt87289@gmail.com
-- 😄 Meu website: https://setxpro.github.io/
+- 😄 Meu website: 🚧 -> https://friendly-raman-40c5cd.netlify.app/
 
 </p>
 
