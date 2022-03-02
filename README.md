@@ -4,9 +4,9 @@
   I'm  <strong>Full-stake Developer</strong> 
   
   <br>
-- 🌱 Estou aprendendo Laravel PHP
-- 📫 Email: patrickpqdt87289@gmail.com
-- 😄 Meu website: 🚧 -> https://friendly-raman-40c5cd.netlify.app/
+- 🌱 Estou aprendendo Laravel PHP<br>
+- 📫 Email: patrickpqdt87289@gmail.com<br>
+- 😄 Meu website: 🚧 -> https://friendly-raman-40c5cd.netlify.app/<br>
 
 </p>
 
