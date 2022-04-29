@@ -6,7 +6,7 @@
   <br>
 - 🌱 Estou aprendendo Laravel PHP<br>
 - 📫 Email: patrickpqdt87289@gmail.com<br>
-- 😄 Meu website: 🚧 ->https://fantastic-bonbon-e644eb.netlify.app/<br>
+- 😄 Meu website: 🚧 ->https://comfy-custard-8b1f0f.netlify.app/<br>
 
 </p>
 
