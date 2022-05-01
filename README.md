@@ -6,8 +6,8 @@
   <br>
 - 🌱 Estou aprendendo Laravel PHP<br>
 - 📫 Email: patrickpqdt87289@gmail.com<br>
-- 😄 Meu website: 🚧 ->https://comfy-custard-8b1f0f.netlify.app/<br>
-- My new portfólio: https://darling-nougat-6fc362.netlify.app/
+- 😄 Meu portfólio 01: ->https://comfy-custard-8b1f0f.netlify.app/ (Typescript)<br>
+- 😄 My new portfólio 02: https://darling-nougat-6fc362.netlify.app/ (Typescript) <br/>
 
 </p>
 
