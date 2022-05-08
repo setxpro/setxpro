@@ -6,8 +6,8 @@
   <br>
 - 🌱 Estou aprendendo Laravel PHP<br>
 - 📫 Email: patrickpqdt87289@gmail.com<br>
-- 😄 Meu portfólio 01: ->https://comfy-custard-8b1f0f.netlify.app/ (Typescript)<br>
-- 😄 My new portfólio 02: https://darling-nougat-6fc362.netlify.app/ (Typescript) <br/>
+- 😄 Portfólio 01: https://comfy-custard-8b1f0f.netlify.app/ <br>
+- 😄 Portfólio 02: https://darling-nougat-6fc362.netlify.app/  <br/>
 
 </p>
 
@@ -36,10 +36,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setxpro&theme=radical&title_color=8E2DE2&text_color=fff&width=50)
-
-
-    
-
 
 ## 🚀 Let's take a coffee
 
