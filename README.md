@@ -7,7 +7,7 @@
 - 🌱 Estou aprendendo Laravel PHP<br>
 - 📫 Email: patrickpqdt87289@gmail.com<br>
 - 😄 Portfólio 01: https://comfy-custard-8b1f0f.netlify.app/ <br>
-- 😄 Portfólio 02: https://darling-nougat-6fc362.netlify.app/  <br/>
+- 😄 Portfólio 02: https://mellifluous-genie-a4ec2c.netlify.app/  <br/>
 
 </p>
 
