@@ -1,11 +1,10 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=setxpro&repo=patrick-developer&countColorcountColor)
 ## Hi, my name is Patrick 👨🏽‍🚀
 <p > 
-  I'm  <strong>Full-stake Developer</strong> 
+  I'm  <strong>Frontend Developer</strong> 
   
   <br>
-- 🌱 Estou aprendendo Laravel PHP<br>
-- 📫 Email: patrickpqdt87289@gmail.com<br>
+- 📫 Email: developerseven77@gmail.com<br>
 - 😄 Portfólio 01: https://comfy-custard-8b1f0f.netlify.app/ <br>
 - 😄 Portfólio 02: https://mellifluous-genie-a4ec2c.netlify.app/  <br/>
 
