@@ -1,7 +1,7 @@
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=setxpro&repo=patrick-developer&countColorcountColor)
 ## Hi, my name is Patrick 👨🏽‍🚀
 <p > 
-  I'm  <strong>Full-Stake Developer, but focused on the frontend</strong> 
+  I'm  <strong>Full-Stack Developer, but focused on the frontend</strong> 
   
   <br>
 - 📫 Email: developerseven77@gmail.com<br>
