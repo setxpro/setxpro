@@ -16,6 +16,9 @@
 ![Typescript](https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
 ![advpl](https://img.shields.io/badge/-advpl-grey?style=for-the-badge&logo=advpl&logoColor=white&labelColor=8E2DE2)
 
+![html5](https://img.shields.io/badge/-html5-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
+![css3](https://img.shields.io/badge/-css3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
+
 ![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
 ![node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node&logoColor=white&labelColor=8E2DE2)
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
