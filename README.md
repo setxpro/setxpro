@@ -8,14 +8,6 @@
 - 😄 Portfólio 01: https://comfy-custard-8b1f0f.netlify.app/ <br>
 - 😄 Portfólio 02: https://mellifluous-genie-a4ec2c.netlify.app/  <br/>
 
-</p>
-
-<h1 align="center">
-
-  <img align="center" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
-</h1>
-
 ## 🚀 Technologies & Tools:
 <p align='left'>
 
