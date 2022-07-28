@@ -36,10 +36,7 @@
   </div>
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setxpro&theme=radical&title_color=8E2DE2&text_color=fff&width=50)
-
 ## 🚀 Let's take a coffee
-
 
 <p align='left'>
   
