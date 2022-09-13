@@ -25,7 +25,7 @@
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
 
 ![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-![azure DevOps](https://img.shields.io/badge/-azure-devops-grey?style=for-the-badge&logo=azure-devops&logoColor=white&labelColor=8E2DE2)
+![azureDevOps](https://img.shields.io/badge/-azure-devops-grey?style=for-the-badge&logo=azure-devops&logoColor=white&labelColor=8E2DE2)
 ![figma](https://img.shields.io/badge/-figma-grey?style=for-the-badge&logo=figma&logoColor=white&labelColor=8E2DE2)
   
 </p>
