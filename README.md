@@ -23,9 +23,10 @@
   
 ![nodejs](https://img.shields.io/badge/-nodejs-grey?style=for-the-badge&logo=nodejs&logoColor=white&labelColor=8E2DE2)
 ![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
-![laravel](https://img.shields.io/badge/-laravel-grey?style=for-the-badge&logo=laravel&logoColor=white&labelColor=8E2DE2)
-![advpl](https://img.shields.io/badge/-advpl-grey?style=for-the-badge&logo=advpl&logoColor=white&labelColor=8E2DE2)
-![totvs](https://img.shields.io/badge/-totvs-grey?style=for-the-badge&logo=totvs&logoColor=white&labelColor=8E2DE2)
+
+![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+![azure DevOps](https://img.shields.io/badge/-azure-devops-grey?style=for-the-badge&logo=azure-devops&logoColor=white&labelColor=8E2DE2)
+![figma](https://img.shields.io/badge/-figma-grey?style=for-the-badge&logo=figma&logoColor=white&labelColor=8E2DE2)
   
 </p>
 <br/>
