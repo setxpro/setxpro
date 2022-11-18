@@ -1,4 +1,4 @@
-![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=setxpro&repo=patrick-developer&countColorcountColor)
+<!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=setxpro&repo=patrick-developer&countColorcountColor) -->
 ## Hi, my name is Patrick 👨🏽‍🚀
 <p > 
   I'm  <strong>Full-Stack Developer, but focused on the frontend</strong> 
