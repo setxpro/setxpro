@@ -5,8 +5,7 @@
   
   <br>
 - 📫 Email: developerseven77@gmail.com<br>
-- 😄 Portfólio 01: https://comfy-custard-8b1f0f.netlify.app/ <br>
-- 😄 Portfólio 02: https://mellifluous-genie-a4ec2c.netlify.app/  <br/>
+- 😄 Portfólio: https://mellifluous-genie-a4ec2c.netlify.app/  <br/>
 
 ## 🚀 Technologies & Tools:
 <p align='left'>
