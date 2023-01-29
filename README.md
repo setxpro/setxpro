@@ -5,7 +5,7 @@
   
   <br>
 - 📫 Email: developerseven77@gmail.com<br>
-- 😄 Portfólio: https://mellifluous-genie-a4ec2c.netlify.app/  <br/>
+- 😄 Portfólio: 🚧🚧🚧 <br/>
 
 ## 🚀 Technologies & Tools:
 <p align='left'>
