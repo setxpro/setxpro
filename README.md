@@ -1,56 +1,59 @@
-<!-- ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=setxpro&repo=patrick-developer&countColorcountColor) -->
-## Hi, my name is Patrick 👨🏽‍🚀
-<p > 
-  I'm  <strong>Full-Stack Developer, but focused on the frontend</strong> 
-  
-  <br>
-- 📫 Email: developerseven77@gmail.com<br>
-- 😄 Portfólio: 🚧🚧🚧 <br/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=header"/>
 
-## 🚀 Technologies & Tools:
-<p align='left'>
+<!-- Header typing -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Patrick+Anjos,+26+yo...;Nice+to+meet+you!&center=true&size=25">
+  </a>
+</h1>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=8E2DE2)
-![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=8E2DE2)
-![Typescript](https://img.shields.io/badge/-typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=8E2DE2)
-![NextJs](https://img.shields.io/badge/-nextjs-grey?style=for-the-badge&logo=nextjs&logoColor=white&labelColor=8E2DE2)
+<!-- Redes sociais de contato -->
+<div align="center">
+<a href = "mailto:patrickpqdt87289@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/patrick-anjos-8b65021b7/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-![html5](https://img.shields.io/badge/-html5-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
-![css3](https://img.shields.io/badge/-css3-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
-![bootstrap](https://img.shields.io/badge/-bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=8E2DE2)
-![sass](https://img.shields.io/badge/-sass-grey?style=for-the-badge&logo=sass&logoColor=white&labelColor=8E2DE2)
-![tailwind](https://img.shields.io/badge/-tailwind-grey?style=for-the-badge&logo=tailwind&logoColor=white&labelColor=8E2DE2)
-  
+<!-- Introdução -->
+## 💻 Brief introduction
 
-![nodejs](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node&logoColor=white&labelColor=8E2DE2)
-![php](https://img.shields.io/badge/-php-grey?style=for-the-badge&logo=php&logoColor=white&labelColor=8E2DE2)
-![ADVPL](https://img.shields.io/badge/-advpl-grey?style=for-the-badge&logo=advpl&logoColor=white&labelColor=8E2DE2)
-![TOTVS](https://img.shields.io/badge/-totvs-grey?style=for-the-badge&logo=totvs&logoColor=white&labelColor=8E2DE2)
+Hi!  My name is [Patrick Anjos](https://www.linkedin.com/in/patrick-anjos-8b65021b7/), I am a kind of guy who likes programming at its core; excellent communication as well as leadership skills. Detail oriented and organized professional
 
-![github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-![azure DevOps](https://img.shields.io/badge/-azuredevops-grey?style=for-the-badge&logo=azuredevops&logoColor=white&labelColor=8E2DE2)
-![figma](https://img.shields.io/badge/-figma-grey?style=for-the-badge&logo=figma&logoColor=white&labelColor=8E2DE2)
-  
-</p>
-<br/>
-<div align="left">
-  <a href="https://github.com/setxpro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=setxpro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setxpro&layout=compact&langs_count=7&theme=dracula"/>
-  </div>
-<br/>
+Open to work. 
 
-## 🚀 Let's take a coffee
 
-<p align='left'>
-  
-  - <a href="https://www.instagram.com/patrick_anjos_/"><img src="https://img.shields.io/badge/instagram%20@patrick_anjos_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-- <a href="https://www.facebook.com/patrick.anjos.r/"><img src="https://img.shields.io/badge/facebook%20Patrick_Anjos-344E86?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  
-- <a href="https://wa.link/620ix3"><img src="https://img.shields.io/badge/whatsapp%20Patrick_Anjos-06d755?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<!-- Currículo -->
+### My resume
 
-- <a href="https://setxpro.github.io/"><img height="30px" src="https://img.shields.io/badge/Dev%20Patrick_portifólio:%20HTML/CSS/JS-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
+<!--
+You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main/resume.pdf) or [download](https://github.com/andresamaciel/andresamaciel/raw/main/resume.pdf) for more details regarding my employment, education, and skills.
+-->
 
-- <a href="https://friendly-raman-40c5cd.netlify.app/"><img height="30px" src="https://img.shields.io/badge/Dev%20Patrick_portifólio:%20REACTJS.🚧-8E2DE2?style=for-the-badge&logo=google%20chrome&logoColor=white"/></a>
-  
-</p>
+<!-- Status -->
+## ⚡ GitHub statistics
+<div style="display: inline_block">
+<img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=setxpro&count_private=true&show_icons=true&theme=defaut" /> <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=setxpro&" alt="setxpro" />
+</div>
+
+<div style="display: inline_block"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setxpro&layout=compact&theme=defaut" />
+</div>
+
+<!-- Tecnologias -->
+## :man_technologist: Software languages
+<div style="display: inline_block">
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JS" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  <a href="https://www.nodejs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.typescript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="oracle" width="40" height="40"/> </a> 
+  <a href="https://www.nextjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.azuredevops.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azuredevops" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="azuredevops" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="azuredevops" width="40" height="40"/> </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
