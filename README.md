@@ -20,10 +20,6 @@ Hi!  My name is [Patrick Anjos](https://www.linkedin.com/in/patrick-anjos-8b6502
 
 Open to work. 
 
-
-<!-- Currículo -->
-### My resume
-
 <!--
 You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main/resume.pdf) or [download](https://github.com/andresamaciel/andresamaciel/raw/main/resume.pdf) for more details regarding my employment, education, and skills.
 -->
