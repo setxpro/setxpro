@@ -62,6 +62,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
     <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,py,bots" />
   </a>
 </p>
+
 ## :man_technologist: Softwares
 <p align="start">
   <a href="https://skillicons.dev">
