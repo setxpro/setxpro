@@ -36,6 +36,13 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 
 <!-- Tecnologias -->
 ## :man_technologist: Front-End
+<h3>Tenho experiência</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,jest,jquery,babel,html" />
+  </a>
+</p>
+<h3>Estou estudando</h3>
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,jest,jquery,babel,html" />
