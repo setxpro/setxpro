@@ -35,10 +35,16 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 </div>
 
 <!-- Tecnologias -->
-## :man_technologist: Software languages
+## :man_technologist: Front-End
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,react,atom,vite,js,ts,php,nestjs,py,nextjs,nodejs,netlify,jest,laravel,jquery,electron,babel,html,bots,dotnet,redux" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,jest,jquery,babel,html" />
+  </a>
+</p>
+## :man_technologist: Back-End
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,js,ts,php,nestjs,py,nodejs,jest,laravel,babel,bots,dotnet" />
   </a>
 </p>
 
