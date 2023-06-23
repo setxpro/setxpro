@@ -41,6 +41,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
     <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,jest,jquery,babel,html" />
   </a>
 </p>
+
 ## :man_technologist: Back-End
 <p align="start">
   <a href="https://skillicons.dev">
