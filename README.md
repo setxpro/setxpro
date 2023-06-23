@@ -39,23 +39,29 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 <h3>Tenho experiência</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,jest,jquery,babel,html" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,jest,jquery,html" />
   </a>
 </p>
 <h3>Estou estudando</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,jest,jquery,babel,html" />
+    <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
 </p>
 
 ## :man_technologist: Back-End
+<h3>Tenho experiência</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,js,ts,php,nestjs,py,nodejs,jest,laravel,babel,bots,dotnet" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,jest,laravel,babel" />
   </a>
 </p>
-
+<h3>Estou estudando</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,py,bots" />
+  </a>
+</p>
 ## :man_technologist: Softwares
 <p align="start">
   <a href="https://skillicons.dev">
