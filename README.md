@@ -50,6 +50,9 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
   <a href="https://www.azuredevops.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azuredevops" width="40" height="40"/> </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="azuredevops" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="azuredevops" width="40" height="40"/> </a>
+  <a href="https://www.c#.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c#/c#-original.svg" alt="c#" width="40" height="40"/> </a>
+  <a href="https://www.c.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.dotNet.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnet/dotnet-original.svg" alt="dotnet" width="40" height="40"/> </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
