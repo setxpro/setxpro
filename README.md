@@ -35,7 +35,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 </div>
 
 <!-- Tecnologias -->
-## :man_technologist: Front-End
+## ⚡ Front-End
 <h3>Tenho experiência</h3>
 <p align="start">
   <a href="https://skillicons.dev">
@@ -49,7 +49,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
   </a>
 </p>
 
-## :man_technologist: Back-End
+## ⚡ Back-End
 <h3>Tenho experiência</h3>
 <p align="start">
   <a href="https://skillicons.dev">
@@ -63,21 +63,21 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
   </a>
 </p>
 
-## :man_technologist: Softwares
+## ⚡ Softwares
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,gcp,azure,postman,vscode,netlify,discord,figma,heroku" />
   </a>
 </p>
 
-## :man_technologist: Database
+## ⚡ Database
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sequelize,redis,graphql,mysql " />
   </a>
 </p>
 
-## :man_technologist: Styles Language
+## ⚡ Styles Language
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,materialui,css" />
