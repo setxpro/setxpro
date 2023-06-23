@@ -38,7 +38,28 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 ## :man_technologist: Software languages
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,gcp,azure,c,cs,react,atom,redis,postman,vite,vscode,tailwind,js,ts,php,nestjs,py,nextjs,nodejs,sequelize,styledcomponents,netlify,materialui,jest,laravel,jquery,electron,babel,html,css,discord,bots,dotnet,redux,figma,graphql,mongodb,mysql,heroku" />
+    <img src="https://skillicons.dev/icons?i=c,cs,react,atom,vite,js,ts,php,nestjs,py,nextjs,nodejs,netlify,jest,laravel,jquery,electron,babel,html,bots,dotnet,redux" />
+  </a>
+</p>
+
+## :man_technologist: Softwares
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,gcp,azure,postman,vscode,netlify,discord,figma,heroku" />
+  </a>
+</p>
+
+## :man_technologist: Database
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sequelize,redis,graphql,mysql " />
+  </a>
+</p>
+
+## :man_technologist: Styles Language
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,materialui,css" />
   </a>
 </p>
 
