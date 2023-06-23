@@ -56,7 +56,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,gcp,azure,c,cs,react,atom,redis,postman,vite,vscode,tailwind,js,ts,php,nestjs,py,nextjs,nodejs,sequelize,styledcomponents,netlify,materialui,jest,laravel,jquery,electron,babel,html,css,discord,bots,dotnet,redux,figma,graphql,mongodb,mysql,heroku" />
   </a>
 </p>
 
