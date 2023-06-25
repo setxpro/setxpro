@@ -59,7 +59,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 <h3>Estou estudando</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,py,bots" />
+    <img src="https://skillicons.dev/icons?i=cs,asp,dotnet,nestjs,py,bots" />
   </a>
 </p>
 
