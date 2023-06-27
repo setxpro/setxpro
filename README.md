@@ -53,7 +53,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 <h3>Tenho experiência</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,jest,laravel,babel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,jest,laravel,babel" />
   </a>
 </p>
 <h3>Estou estudando</h3>
@@ -73,7 +73,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 ## ⚡ Database
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sequelize,redis,graphql,mysql " />
+    <img src="https://skillicons.dev/icons?i=sequelize,redis,graphql,mysql,mongo " />
   </a>
 </p>
 
