@@ -64,7 +64,7 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 ## ⚡ Softwares and Tools
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,gcp,azure,postman,vscode,netlify,discord,figma,heroku" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,gcp,azure,postman,vscode,netlify,discord,figma,heroku,visualstudio" />
   </a>
 </p>
 
