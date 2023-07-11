@@ -34,13 +34,13 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 
 <!-- Tecnologias -->
 ## ⚡ Front-End
-<h3>Tenho experiência</h3>
+<h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,ts,js,jest,jquery,html" />
   </a>
 </p>
-<h3>Estou estudando</h3>
+<h3>I am studying</h3>
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nextjs" />
@@ -48,13 +48,13 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 </p>
 
 ## ⚡ Back-End
-<h3>Tenho experiência</h3>
+<h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,jest,laravel,babel" />
   </a>
 </p>
-<h3>Estou estudando</h3>
+<h3>I am studying</h3>
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,nestjs,py,bots" />
