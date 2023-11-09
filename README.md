@@ -51,27 +51,21 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 <h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,jest,laravel,babel" />
-  </a>
-</p>
-<h3>I am studying</h3>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,java" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java" />
   </a>
 </p>
 
 ## ⚡ Softwares and Tools
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,gcp,azure,postman,vscode,netlify,discord,figma,heroku,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,gcp,azure,postman,vscode" />
   </a>
 </p>
 
 ## ⚡ Database
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sequelize,redis,graphql,mysql,mongo " />
+    <img src="https://skillicons.dev/icons?i=sequelize,redis,graphql,mysql,mongo,postgresql " />
   </a>
 </p>
 
