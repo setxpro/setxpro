@@ -69,11 +69,4 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
   </a>
 </p>
 
-## ⚡ Styles Language
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,styledcomponents,materialui,css" />
-  </a>
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer"/>
