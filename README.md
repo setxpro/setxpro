@@ -37,13 +37,8 @@ You can see my [resume](https://github.com/andresamaciel/andresamaciel/blob/main
 <h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,jest,jquery,html" />
-  </a>
-</p>
-<h3>I am studying</h3>
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs" />
+    <img src="https://skillicons.dev/icons?i=react,ts,js,jest,angular
+      ,html" />
   </a>
 </p>
 
