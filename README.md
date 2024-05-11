@@ -56,7 +56,7 @@ Hi!  My name is [Patrick Anjos](https://www.linkedin.com/in/patrick-anjos-8b6502
 <h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,jest,angular" />
+    <img src="https://skillicons.dev/icons?i=react,vite,ts,js,jest,angular" />
   </a>
 </p>
 
@@ -64,14 +64,14 @@ Hi!  My name is [Patrick Anjos](https://www.linkedin.com/in/patrick-anjos-8b6502
 <h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,java" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,spring,go,py" />
   </a>
 </p>
 
 ## ⚡ Softwares and Tools
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,gcp,azure,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,gcp,azure,postman,vscode,docker,nginx,cloudflare,eclipse,elasticsearch,idea,kafka,maven,npm" />
   </a>
 </p>
 
