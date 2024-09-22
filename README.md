@@ -38,14 +38,6 @@ Hi!  My name is [Patrick Anjos](https://www.linkedin.com/in/patrick-anjos-8b6502
 <!-- activity graph heroku-app end -->
 
 
-<p align="center">
-<a href="https://wakatime.com/@setxpro"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Setxpro&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@setxpro's wakatime stats"/></a>
-<a href="https://github.com/setxpro?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=setxpro&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@setxpro's trophy stats"/></a>
-</p>
-
-
-
-
 <!-- Tecnologias -->
 ## ⚡ Front-End
 <h3>I have experience</h3>
