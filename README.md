@@ -49,7 +49,7 @@ Hi!  My name is [Patrick Anjos](https://www.linkedin.com/in/patrick-anjos-8b6502
 <a href="https://gist.github.com/setxpro"><img src="https://profile-counter.glitch.me/{setxpro}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
 </p>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
 
 <!-- Tecnologias -->
 ## ⚡ Front-End
